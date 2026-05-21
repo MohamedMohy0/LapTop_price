@@ -2,7 +2,7 @@
 
 A Machine Learning project that predicts laptop prices based on different hardware and software specifications using regression models and data preprocessing techniques.
 
-Repository: :contentReference[oaicite:0]{index=0}
+
 
 ---
 
